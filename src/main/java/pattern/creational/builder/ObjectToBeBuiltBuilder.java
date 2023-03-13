@@ -1,4 +1,4 @@
-package creational.builder;
+package pattern.creational.builder;
 
 public class ObjectToBeBuiltBuilder implements Builder {
     private ObjectToBeBuilt toBeBuilt;

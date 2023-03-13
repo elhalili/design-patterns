@@ -1,4 +1,4 @@
-package creational.singleton;
+package pattern.creational.singleton;
 
 public class Singleton {
     private static Singleton instance;

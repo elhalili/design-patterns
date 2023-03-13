@@ -1,4 +1,4 @@
-package creational.builder;
+package pattern.creational.builder;
 
 public interface Builder {
     Builder reset();
